@@ -1,0 +1,11 @@
+
+	 Welcome To BUKC ATM
+
+CNIC No      : 3330355444545
+First Name   : haris
+Last Name    : ahsan
+Contact No   : 03362133005
+Cash Out Rs  : 500
+Remaining Rs : 57500
+Date: 27-12-2021
+Time: 18:4:39
